@@ -1,3 +1,4 @@
+-- Create Active User Table
 CREATE TABLE review_id_table (
   review_id TEXT PRIMARY KEY NOT NULL,
   customer_id INTEGER,
