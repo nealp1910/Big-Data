@@ -30,3 +30,7 @@ This homework assignment contains two levels. The second level is optional but h
 
 ## Hints and Considerations 
 	- Included in the Instructions Folder. 
+	
+## Output
+	- pgAdmin output
+[![pg-Admin-4-Output.jpg](https://i.postimg.cc/brmDtYs3/pg-Admin-4-Output.jpg)](https://postimg.cc/gL629WyZ)
